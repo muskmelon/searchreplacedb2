@@ -1,7 +1,7 @@
 searchreplacedb2
 ================
 
-Search & Replace Domain Names in the Database For WP Migrations
+Search & replace domain names in the database for WP migrations
 
 The program is written and maintained by
 http://interconnectit.com/products/search-and-replace-for-wordpress-databases/
@@ -14,4 +14,4 @@ it's undergoing some breakthrough changes in version 3, and it is not wokring in
 2. Place `searchreplacedb2.php` to your web root (eg. the same folder as `wp-config.php`)
 3. Browse to the `searchreplacedb2.php` in your web browser
 4. Fill in the fields as needed
-5. Make sure ONLY replace the domain in wp_posts table
+5. Make sure ONLY replace the domain names in wp_posts table
